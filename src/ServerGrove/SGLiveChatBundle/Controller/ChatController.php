@@ -17,7 +17,7 @@ use Exception;
 /**
  * Chat's main controller
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class ChatController extends PublicController
 {

@@ -9,7 +9,7 @@ use ServerGrove\SGLiveChatBundle\Controller\BaseController;
 /**
  * Description of PublicController
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 abstract class PublicController extends BaseController
 {

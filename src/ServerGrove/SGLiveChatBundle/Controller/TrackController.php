@@ -10,7 +10,7 @@ use MongoDate;
 /**
  * Chat's tracker controller
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class TrackController extends PublicController
 {
