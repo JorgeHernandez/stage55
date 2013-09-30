@@ -4,7 +4,6 @@ homepage:
 #  defaults: { _controller: SGLiveSGLiveChatBundle:Default:index } 
 
 # -- Live Chat -----------------------------------------------------------------
-
 prueba:
   pattern:  /prueba
   defaults: { _controller: SGLiveChatBundle:Default:prueba }
