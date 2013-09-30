@@ -8,9 +8,9 @@ use Symfony\Component\DependencyInjection\Loader\YamlFileLoader;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 
 /**
- * Description of SGLiveChatExtension
+ * Description of SGLiveChatExtension 
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class SGLiveChatExtension extends Extension
 {
@@ -21,7 +21,7 @@ class SGLiveChatExtension extends Extension
     }
 
     /**
-     * Loads the default configuration.
+     * Loads the default configuration
      *
      * @param array $config An array of configuration settings
      * @param ContainerBuilder $container A ContainerBuilder instance
