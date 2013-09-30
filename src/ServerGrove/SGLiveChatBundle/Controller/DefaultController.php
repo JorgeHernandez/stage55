@@ -10,6 +10,7 @@ class DefaultController extends Controller
     {
         return $this->render('SGLiveChatBundle:Default:index.html.twig');
     }
+
     public function pruebaAction()
     {
         return $this->render('SGLiveChatBundle:Default:hallo.html.twig');

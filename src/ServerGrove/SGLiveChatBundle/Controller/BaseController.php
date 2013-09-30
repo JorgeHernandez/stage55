@@ -12,7 +12,7 @@ use Doctrine\ODM\MongoDB\DocumentManager;
 /**
  * Chat's base controller
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 abstract class BaseController extends Controller
 {
