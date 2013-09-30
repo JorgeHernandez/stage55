@@ -15,7 +15,7 @@ use ServerGrove\SGLiveChatBundle\Document\CannedMessage;
 use Exception;
 
 /**
- * Chat's main controller
+ * Chat's main  controller
  *
  * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
