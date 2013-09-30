@@ -2,6 +2,7 @@
 
 namespace ServerGrove\SGLiveChatBundle\Tests;
 
+
 use ServerGrove\SGLiveChatBundle\SGLiveChatBundle;
 use Symfony\Bundle\DoctrineMongoDBBundle\DoctrineMongoDBBundle;
 use Symfony\Bundle\DoctrineBundle\DoctrineBundle;

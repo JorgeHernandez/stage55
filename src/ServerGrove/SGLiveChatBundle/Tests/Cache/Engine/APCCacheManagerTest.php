@@ -6,7 +6,7 @@ use ServerGrove\SGLiveChatBundle\Cache\Manager;
 use ServerGrove\SGLiveChatBundle\Cache\Engine\Apc;
 
 /**
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class APCCacheManagerTest extends ManagerTestAbstract
 {

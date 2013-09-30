@@ -2,6 +2,7 @@
 
 namespace ServerGrove\SGLiveChatBundle\Tests\Controller;
 
+
 use Symfony\Component\BrowserKit\Client;
 
 use Symfony\Component\BrowserKit\Response;

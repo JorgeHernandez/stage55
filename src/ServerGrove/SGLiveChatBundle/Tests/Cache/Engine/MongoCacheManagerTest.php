@@ -3,7 +3,7 @@
 namespace ServerGrove\SGLiveChatBundle\Tests\Cache;
 
 /**
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 use ServerGrove\SGLiveChatBundle\Cache\Engine\Mongo;
 

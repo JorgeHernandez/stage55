@@ -2,6 +2,7 @@
 
 namespace ServerGrove\SGLiveChatBundle\Tests;
 
+
 use Symfony\Bundle\DoctrineMongoDBBundle\DependencyInjection\DoctrineMongoDBExtension;
 
 use ServerGrove\SGLiveChatBundle\DependencyInjection\SGLiveChatExtension;
