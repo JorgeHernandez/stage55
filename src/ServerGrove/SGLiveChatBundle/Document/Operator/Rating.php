@@ -5,7 +5,7 @@ namespace ServerGrove\SGLiveChatBundle\Document\Operator;
 /**
  * Description of Rating
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  * @mongodb:Document(
  *  collection="operator_rating",
  *  repositoryClass="ServerGrove\SGLiveChatBundle\Document\Operator\RatingRepository"

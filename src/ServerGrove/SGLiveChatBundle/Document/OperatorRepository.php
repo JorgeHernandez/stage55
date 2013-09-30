@@ -13,7 +13,7 @@ use MongoDate;
 /**
  * Description of OperatorRepository
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class OperatorRepository extends DocumentRepository implements UserProviderInterface
 {

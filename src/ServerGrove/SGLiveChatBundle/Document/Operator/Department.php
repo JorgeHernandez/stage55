@@ -7,7 +7,7 @@ use ServerGrove\SGLiveChatBundle\Document\Operator;
 /**
  * Description of Department
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  * @mongodb:Document(collection="operator_department")
  */
 class Department

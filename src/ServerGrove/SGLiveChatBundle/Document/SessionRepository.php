@@ -8,7 +8,7 @@ use MongoDate;
 /**
  * Description of SessionRepository
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class SessionRepository extends DocumentRepository
 {

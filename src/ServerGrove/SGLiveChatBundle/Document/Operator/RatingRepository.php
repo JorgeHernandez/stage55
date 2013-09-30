@@ -8,7 +8,7 @@ use ServerGrove\SGLiveChatBundle\Document\Operator;
 /**
  * Description of RatingRepository
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class RatingRepository extends DocumentRepository
 {

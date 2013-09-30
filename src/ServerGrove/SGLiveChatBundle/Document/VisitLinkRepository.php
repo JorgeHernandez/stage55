@@ -5,7 +5,7 @@ namespace ServerGrove\SGLiveChatBundle\Document;
 use Doctrine\ODM\MongoDB\DocumentRepository;
 
 /**
- * @author ismael
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class VisitLinkRepository extends DocumentRepository
 {

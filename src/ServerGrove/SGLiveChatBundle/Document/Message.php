@@ -5,7 +5,7 @@ namespace ServerGrove\SGLiveChatBundle\Document;
 /**
  * Description of Message
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  * @mongodb:EmbeddedDocument
  * @mongodb:HasLifecycleCallbacks
  */

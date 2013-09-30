@@ -5,7 +5,7 @@ namespace ServerGrove\SGLiveChatBundle\Document;
 /**
  * Description of User
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  * @mongodb:Document
  * @mongodb:InheritanceType("COLLECTION_PER_CLASS")
  * @mongodb:HasLifecycleCallbacks

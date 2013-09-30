@@ -5,7 +5,7 @@ namespace ServerGrove\SGLiveChatBundle\Document;
 /**
  * Description of Session
  *
- * @author Pablo Godel<pablo@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  * @mongodb:Document(
  * collection="cache",
  * repositoryClass="ServerGrove\SGLiveChatBundle\Document\CacheRepository"

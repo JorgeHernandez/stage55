@@ -3,7 +3,7 @@
 namespace ServerGrove\SGLiveChatBundle\Document;
 
 /**
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  * @mongodb:Document(
  * collection="visit",
  * repositoryClass="ServerGrove\SGLiveChatBundle\Document\VisitRepository"

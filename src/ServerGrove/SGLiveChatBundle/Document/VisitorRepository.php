@@ -7,7 +7,7 @@ use Doctrine\ODM\MongoDB\DocumentRepository;
 /**
  * Description of VisitRepository
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class VisitorRepository extends DocumentRepository
 {

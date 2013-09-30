@@ -9,7 +9,7 @@ use ServerGrove\SGLiveChatBundle\Document\Operator\Department;
 /**
  * Description of Operator
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  * @mongodb:Document(
  * collection="operator",
  * repositoryClass="ServerGrove\SGLiveChatBundle\Document\OperatorRepository"

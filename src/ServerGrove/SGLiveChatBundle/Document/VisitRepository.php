@@ -8,7 +8,7 @@ use MongoDate;
 /**
  * Description of VisitRepository
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class VisitRepository extends DocumentRepository
 {
