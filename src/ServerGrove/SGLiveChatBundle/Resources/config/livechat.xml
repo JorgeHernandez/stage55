@@ -9,7 +9,6 @@
         <parameter key="livechat.cache.engine.apc.class">ServerGrove\SGLiveChatBundle\Cache\Engine\Apc</parameter>
         <parameter key="livechat.cache.engine.mongo.class">ServerGrove\SGLiveChatBundle\Cache\Engine\Mongo</parameter>
     </parameters>
-    
     <services>
         <!-- User Repository Service -->
         <service id="livechat.cache.manager" class="%livechat.cache.manager.class%">
