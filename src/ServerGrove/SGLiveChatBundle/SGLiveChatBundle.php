@@ -21,6 +21,7 @@ class SGLiveChatBundle extends Bundle
     public function getPath()
     {
         return strtr(__DIR__, '\\', '/');
+        //return strtr(__DIR__, '/');
     }
 
 }
