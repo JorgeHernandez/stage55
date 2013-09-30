@@ -1,0 +1,32 @@
+{
+    "name": "doctrine/mongodb-odm",
+    "type": "library",
+    "description": "Doctrine MongoDB Object Document Mapper",
+    "keywords": ["odm", "database", "persistence", "mongodb"],
+    "homepage": "http://www.doctrine-project.org",
+    "license": "MIT",
+    "authors": [
+        { "name": "Bulat Shakirzyanov", "email": "mallluhuct@gmail.com" },
+        { "name": "Kris Wallsmith", "email": "kris.wallsmith@gmail.com" },
+        { "name": "Jonathan H. Wage", "email": "jonwage@gmail.com" },
+        { "name": "Jeremy Mikola", "email": "jmikola@gmail.com" }
+    ],
+    "require": {
+        "doctrine/mongodb-odm": "1.0.*@beta",
+        "doctrine/mongodb-odm-bundle": "3.0.*@beta"
+},
+    "require-dev": {
+        "symfony/yaml": "~2.0"
+    },
+    "suggest": {
+        "symfony/yaml": "Enables the YAML metadata mapping driver"
+    },
+    "autoload": {
+        "psr-0": { "Doctrine\\ODM\\MongoDB": "lib/" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
