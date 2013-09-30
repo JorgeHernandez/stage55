@@ -19,7 +19,7 @@ use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 /**
  * Description of AdminController
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class AdminController extends BaseController
 {
