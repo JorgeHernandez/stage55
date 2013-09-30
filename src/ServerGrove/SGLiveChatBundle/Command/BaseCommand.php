@@ -5,7 +5,7 @@ namespace ServerGrove\SGLiveChatBundle\Command;
 use Symfony\Bundle\FrameworkBundle\Command\Command;
 
 /**
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 abstract class BaseCommand extends Command
 {

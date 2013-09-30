@@ -10,7 +10,7 @@ use Symfony\Component\Console\Input\InputOption;
 use MongoCursorException;
 
 /**
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class AddOperatorCommand extends BaseCommand
 {

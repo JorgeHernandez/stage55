@@ -9,7 +9,7 @@ use Symfony\Component\Console\Input\InputArgument;
 use MongoCursorException;
 
 /**
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class AddCannedMessageCommand extends BaseCommand
 {

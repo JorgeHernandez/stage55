@@ -5,7 +5,7 @@ namespace ServerGrove\SGLiveChatBundle\Command;
 use ServerGrove\SGLiveChatBundle\Document\Administrator;
 
 /**
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class AddAdministratorCommand extends AddOperatorCommand
 {
