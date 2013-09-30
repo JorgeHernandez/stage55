@@ -12,7 +12,7 @@ use Symfony\Component\Form\HiddenField;
 /**
  * Description of OperatorForm
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class OperatorForm extends Form
 {

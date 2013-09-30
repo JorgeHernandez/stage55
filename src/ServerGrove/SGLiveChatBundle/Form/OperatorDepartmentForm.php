@@ -13,7 +13,7 @@ use Symfony\Component\Form\Form;
 /**
  * Description of OperatorDepartmentForm
  *
- * @author Ismael Ambrosi<ismael@servergrove.com>
+ * @author Jorge Hernandez<jorge.hernandez64@outlook.es>
  */
 class OperatorDepartmentForm extends Form
 {
